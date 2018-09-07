@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		552949D72143192100C54767 /* raytracer-in-a-weekend-cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "raytracer-in-a-weekend-cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		552949DA2143192100C54767 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		552949E121431A2B00C54767 /* vec3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vec3.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				552949DA2143192100C54767 /* main.cpp */,
+				552949E121431A2B00C54767 /* vec3.h */,
 			);
 			path = "raytracer-in-a-weekend-cpp";
 			sourceTree = "<group>";
