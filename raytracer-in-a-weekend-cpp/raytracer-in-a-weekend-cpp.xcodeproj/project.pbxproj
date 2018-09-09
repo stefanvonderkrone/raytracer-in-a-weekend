@@ -31,6 +31,7 @@
 		5557B914214328B000A5A6F4 /* sphere.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sphere.h; sourceTree = "<group>"; };
 		5557B91521432D8B00A5A6F4 /* hitable_list.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hitable_list.h; sourceTree = "<group>"; };
 		5557B9162143D54000A5A6F4 /* camera.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = camera.h; sourceTree = "<group>"; };
+		5557B9172145633700A5A6F4 /* material.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = material.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 				5557B914214328B000A5A6F4 /* sphere.h */,
 				5557B91521432D8B00A5A6F4 /* hitable_list.h */,
 				5557B9162143D54000A5A6F4 /* camera.h */,
+				5557B9172145633700A5A6F4 /* material.h */,
 			);
 			path = "raytracer-in-a-weekend-cpp";
 			sourceTree = "<group>";
